@@ -69,6 +69,7 @@ nav ul li a:hover{
 .about h1{
     font-size: 23px;
     margin-top: 50px;
+    font-weight: lighter;
 }
 
 .about h2{
@@ -86,6 +87,7 @@ nav ul li a:hover{
 
 span{
     color: orange;
+    font-family: Clicker Script;
 }
 
 .content .about button{
@@ -175,6 +177,10 @@ span{
         justify-content: center;
         height: auto;
         margin-left: 0px;
+    }
+
+    .content .about h1{
+        font-size: 20px;
     }
 
     .content .about p{
